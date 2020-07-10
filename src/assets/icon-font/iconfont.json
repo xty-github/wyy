@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "494908",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1256457",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3416573",
+      "name": "历史记录",
+      "font_class": "jilu",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "3764500",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "4949469",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e556",
+      "unicode_decimal": 58710
+    },
+    {
+      "icon_id": "7479002",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "14057106",
+      "name": "网易云音乐logo",
+      "font_class": "wangyiyunyinle-011",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
